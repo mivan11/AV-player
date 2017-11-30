@@ -1,0 +1,30 @@
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Video audio\bin\Debug\Video audio.exe.config
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Video audio\bin\Debug\Video audio.exe
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Video audio\bin\Debug\Video audio.pdb
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Video audio\bin\Debug\Video audio.xml
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Video audio\bin\Debug\Interop.WMPLib.dll
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Video audio\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Video audio\obj\Debug\Interop.WMPLib.dll
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Video audio\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Video audio\obj\Debug\Video audio.vbproj.ResolveComReference.cache
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Video audio\obj\Debug\Video_audio.Form1.resources
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Video audio\obj\Debug\Video_audio.Resources.resources
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Video audio\obj\Debug\Video audio.vbproj.GenerateResource.Cache
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Video audio\obj\Debug\Video audio.exe
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Video audio\obj\Debug\Video audio.xml
+C:\Users\Microsoft\AppData\Local\Temporary Projects\Video audio\obj\Debug\Video audio.pdb
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Video audio\Video audio\bin\Debug\Video audio.exe.config
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Video audio\Video audio\bin\Debug\Video audio.exe
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Video audio\Video audio\bin\Debug\Video audio.pdb
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Video audio\Video audio\bin\Debug\Video audio.xml
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Video audio\Video audio\bin\Debug\Interop.WMPLib.dll
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Video audio\Video audio\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Video audio\Video audio\obj\Debug\Interop.WMPLib.dll
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Video audio\Video audio\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Video audio\Video audio\obj\Debug\Video audio.vbproj.ResolveComReference.cache
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Video audio\Video audio\obj\Debug\Video_audio.AVP.resources
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Video audio\Video audio\obj\Debug\Video_audio.Resources.resources
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Video audio\Video audio\obj\Debug\Video audio.vbproj.GenerateResource.Cache
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Video audio\Video audio\obj\Debug\Video audio.exe
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Video audio\Video audio\obj\Debug\Video audio.xml
+C:\Users\Microsoft\Documents\Visual Studio 2017\Projects\Video audio\Video audio\obj\Debug\Video audio.pdb
